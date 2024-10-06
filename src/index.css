@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+.header {
+  height: 43vh;
+  background: #02307e;
+  border: 2px solid #1e1e1e;
+  padding-bottom: 25px;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mainTitle {
+  color: #edbb00;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 0;
+  margin: 10px;
+  justify-content: center;
+}
+
+.age {
+  margin: 0; /* Asegura que no haya espacio entre la bandera y el texto */
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4vh;
+}
+
+.flag {
+  width: 50px;
+  height: 30px;
+  margin: 0; /* Elimina cualquier margen adicional en el texto "1899" */
+  padding: 0;
+}
+
+.Ttile {
+  font-size: 15vh;
+  margin: 20px; /* Elimina cualquier margen adicional en el texto "1899" */
+  padding: 0;
+}
+
+.navbar {
+  height: 70px;
+  background: #ae023e;
+  border: 2px solid #1e1e1e;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.list {
+  display: flex;
+  width: 450px;
+  justify-content: space-between;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.button {
+  background: #1e1e1e;
+  color: #ffffff;
+  padding: 5px 30px;
+  font-size: 28px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid #1e1e1e;
+}
+
+.escudo {
+  margin-top: 4px;
+  height: 70px;
+}
+
+.leftarrow {
+  background: none;
+  width: 20px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 10px;
+}
+
+.playerContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.playerCard {
+  margin: 20px;
+  background: #ffffff;
+  border: 3px solid #737382;
+}
+
+.playerBody {
+  margin: 0;
+  border: 1px solid #737382;
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+}
+
+.mainCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #f4f4f4;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.titleMainCard {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardTitle {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.cardBio {
+  color: #70707f;
+}
+
+.grey {
+    height: 35px;
+}
+
+.white {
+  background: #ffffff;
+  height: 35px;
+}
+
+.number {
+  color: #02307e;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.cardBoldBio {
+  font-weight: 400;
+}
+
+.foto {
+  width: 300px;
+  height: 300px;
+}
