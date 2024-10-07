@@ -1,7 +1,5 @@
 # Culers API Web App ⚽️
-
 ![Captura de pantalla 2024-10-07 a las 1 06 43](https://github.com/user-attachments/assets/34f98ab8-a96a-4f23-b5b7-013ca28ee3ce)
-
 
 Welcome to the Culers Web App!  
 This project is a web interface built with **React** that allows users to view information about the Culers API⚽️. The app connects to a **RESTful API** developed in **Java** using **Spring Boot** and **MySQL** (https://github.com/CoderAnchel/CulersAPI-2024), providing real-time player data. This web app offers an interactive and dynamic experience, allowing users to search for players by name, number, and nationality.
