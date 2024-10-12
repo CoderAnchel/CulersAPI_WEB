@@ -15,10 +15,11 @@ The project is organized as follows:
 ## Features 🌟
 
 - **View all players**: Displays a complete list of all players along with their respective images and details.
+- **Player Images**: Each player has their corresponding image that is dynamically loaded from the assets folder.
+  ## INCOMING 
 - **Search by name**: Users can search and filter players by their name.
 - **Search by jersey number**: Players can be looked up by entering their jersey number.
 - **Filter by nationality**: View players based on their nationality.
-- **Player Images**: Each player has their corresponding image that is dynamically loaded from the assets folder.
 
 ## Application Usage
 
