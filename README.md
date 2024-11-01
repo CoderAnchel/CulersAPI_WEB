@@ -79,4 +79,3 @@ When the app is launched, users can see a complete list of FC Barcelona players 
 ## Future Updates 🔮
 
 In a future update, the **Documentation** section will be added under the **Docs** tab. This section will provide full documentation for the CULERS API, including an explanation of all available endpoints, parameters, and expected responses. This will enable other developers to easily consume the API, expanding the reach of the web app.
-
